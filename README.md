@@ -27,7 +27,12 @@ THEN I am again presented with current and future conditions for that city
   ## Contribution:
   Adding simplify codes can do the same functions 
   ## Testing
-  by terminal
+  by terminal![Screenshot2](https://github.com/MathewG2099/take-the-note-of-my-heart-/assets/160433914/99d38972-4096-416f-8548-75f2c3ea4f69)
+
   ## Contact information:
  -Github [MathewG2099](htpps://github.com/MathewG2099)
  -Email: [fireacademy2099@gmail.com](mailto:user@example.com)
+ ![Screenshot2](https://github.com/MathewG2099/take-the-note-of-my-heart-/assets/160433914/50c43ba7-e283-47e0-9372-364d8ced11c2)
+
+![screenshot](https://github.com/MathewG2099/take-the-note-of-my-heart-/assets/160433914/6e095d7d-f675-4ef6-ba32-48d8dc5557f6)
+
